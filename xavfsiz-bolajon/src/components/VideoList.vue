@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h2 class="text-xl font-bold mb-4">Video123lar</h2>
+      <h2 class="text-xl font-bold mb-4">Video112345623lar</h2>
       <div v-for="video in videos" :key="video">
         <iframe
           class="my-4"
